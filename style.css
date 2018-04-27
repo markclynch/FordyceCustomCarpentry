@@ -71,8 +71,8 @@ header a:hover{
 /* SHOWCASE */
 
 #showcase {
-  min-height:400px;
-  background: url('./Images/showcase.jpg') no-repeat 0 -400px;
+  min-height:840px;
+  background: url('./Images/showcase.jpg') no-repeat 0 -10px;
   text-align: center;
   color:#f8f6f6;
   text-shadow: 2px 2px #103f1a;
@@ -141,7 +141,7 @@ section #gallery .container{
 
 #wrapper {
   width: 65%;
-  align: center;
+  
 }
 
 .main-img img{
