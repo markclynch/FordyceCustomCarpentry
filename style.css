@@ -109,6 +109,7 @@ header a:hover{
 
 #boxes .box img{
   max-height: 200px;
+  border: 1px black;
 }
 
 #boxes .box p {
